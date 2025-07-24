@@ -38,7 +38,7 @@ export default function ListAllStudents() {
             { students.length === 0 ? (
                 <TableRow>
                     <TableCell>
-                        No students availabel
+                        No students available
                     </TableCell>
                 </TableRow>
             ) :
